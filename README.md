@@ -10,6 +10,7 @@
 janjan0km/janjan0km is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> 
-border-radius: 25px;
+[ht![image](https://github.com/user-attachments/assets/1ac9dc97-7a59-4078-aead-e8d5baec5098)
 
-![image](https://github.com/user-attachments/assets/c90e0598-892e-4e54-a092-2ae7ebd7fc60)
+
+
